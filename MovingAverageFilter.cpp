@@ -2,7 +2,7 @@
 Original code located at:
 https://github.com/sebnil/Moving-Avarage-Filter--Arduino-Library-
 
-Place this file into your arduino ./libraries/moving average filter/
+Place this file into your arduino ./libraries/MovingAveragFilter/
 */
 #include "MovingAverageFilter.h"
 

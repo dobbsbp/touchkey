@@ -54,10 +54,10 @@ output = movingAverageFilter.process(input);
 output1 = movingAverageFilter1.process(input1);
 output2 = movingAverageFilter2.process(input2);
 output3 = movingAverageFilter3.process(input3);
-output6 = movingAverageFilter.process(input);
-output7 = movingAverageFilter1.process(input1);
-output8 = movingAverageFilter2.process(input2);
-output9 = movingAverageFilter3.process(input3);
+output6 = movingAverageFilter6.process(input6);
+output7 = movingAverageFilter7.process(input7);
+output8 = movingAverageFilter8.process(input8);
+output9 = movingAverageFilter9.process(input9);
 
  
 ////  key "a"//////////begin

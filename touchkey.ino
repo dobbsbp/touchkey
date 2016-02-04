@@ -5,6 +5,10 @@ MovingAverageFilter movingAverageFilter(20);
 MovingAverageFilter movingAverageFilter1(20);
 MovingAverageFilter movingAverageFilter2(20);
 MovingAverageFilter movingAverageFilter3(20);
+MovingAverageFilter movingAverageFilter6(20);
+MovingAverageFilter movingAverageFilter7(20);
+MovingAverageFilter movingAverageFilter8(20);
+MovingAverageFilter movingAverageFilter9(20);
 
 // there are 9 analog pins
 boolean check = false;  
@@ -14,14 +18,13 @@ boolean check3 = false;
 boolean check6 = false;
 boolean check7 = false; 
 boolean check8 = false;
- boolean check9 = false;
+boolean check9 = false;
  
 void setup() {
  
 Serial.begin(115200);     
  
 }
- 
  
 void loop() {        
  
